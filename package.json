@@ -1,6 +1,6 @@
 {
-  "name": "loader-chinese2unicode",
-  "version": "0.1.0",
+  "name": "@ali/loader-chinese2unicode",
+  "version": "1.0.1",
   "description": "convert chinese char to unicode char",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,9 @@
     "colors": "~1.1.2",
     "iconv-lite": "^0.2.11",
     "jschardet": "^1.1.0"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
   },
   "author": "jamesroom",
   "license": "ISC"

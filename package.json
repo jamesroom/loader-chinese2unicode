@@ -1,0 +1,22 @@
+{
+  "name": "loader-chinese2unicode",
+  "version": "0.1.ls0",
+  "description": "convert chinese char to unicode char",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "chinese",
+    "unicode"
+  ],
+  "dependencies": {
+    "colors": "~1.1.2",
+    "iconv-lite": "^0.2.11",
+    "jschardet": "^1.1.0"
+  },
+  "author": "jamesroom",
+  "license": "ISC"
+}
